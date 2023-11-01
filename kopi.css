@@ -1,0 +1,164 @@
+.head{
+    background-color: black;
+    width: 100%;
+    height: 76px;
+   padding-left: 185px;
+   padding-bottom: 11px;
+   display: flex;
+   
+   
+    overflow:hidden ;
+   
+}
+body{
+    margin:0;
+}
+.main{
+    width: 98.7vw;
+    height: 100%;
+    overflow: hidden;
+}
+
+.menu{
+    
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-left: 16px;
+    margin-top: 10px;
+    font-family: 'Asap', sans-serif;
+    font-size: 18px;
+    gap: 20px;
+    scale: 10px;
+    
+    
+   
+   
+}
+
+.home{
+    color: red;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 273px;
+    margin-top: 25px;
+    margin-top: 56px;
+
+    
+    
+}
+.home:hover{
+    cursor: pointer;
+    
+}
+.Product{
+    color: #fff;
+    width: 20px;
+    height: 50px;
+    float: left;
+    margin-left: 84px;
+    margin-top: 56px;
+    
+
+}
+.Product:hover{
+    color: red;
+    scale: 1.2;
+    cursor: pointer;
+}
+
+.dov{
+    background-color: blue;
+    width: 100%;
+    height: 371px;
+    margin-bottom: 90px;
+
+}
+.oki{
+    background-color: black;
+    width: 100%;
+    height: 371px;
+}
+.pok{
+    height: 202px;
+    margin-left: 130px;
+    margin-top: 95px;
+
+}
+.quate{
+    color: #fff;
+    margin-left: 530px;
+    margin-top:  -233px;
+    
+    font-size: 39px;
+    font-family: 'helveticaneuebold',sans-serif;
+}
+.para{
+    color: #fff;
+    font-size: 18px;
+    margin-left: 530px;
+    font-family: 'helveticaneueregular',sans-serif;
+}
+.pow{
+    background-color: goldenrod;
+    width: 100%;
+    height: 525px;
+    margin-bottom: 200px;
+}
+.down{
+    width: 100%;
+    height: 554px;
+}
+.new{
+    font-size: 18px;
+    margin-left: 530px;
+    margin-top: -463px;
+    font-size: 92px;
+    color: red;
+    font-family:  'helveticaneuebold',sans-serif;
+}
+.par{
+    font-size: 18px;
+    margin-left: 530px;
+    margin-top: -64px;
+    font-size: 19px;
+    color:black;
+    font-family:  'helveticaneuebold',sans-serif;
+}
+.bottom{
+    background-color: black;
+    width: 100%;
+    height: 600px;
+    margin-top: -171px;
+}
+.special{
+    color: #fff;
+    margin-left: 425px;
+    margin-top:  -435px;
+    font-size: 39px;
+    
+    font-size: 39px;
+    font-family:  'helveticaneuebold',sans-serif;
+    font-weight: 20px;
+
+}
+.last{
+    color: #fff;
+    margin-left: 404px;
+    margin-top:  -14px;
+    font-size: 20px;
+    height: 513px;
+    font-family:  'helveticaneuebold',sans-serif;;
+
+}
+.bean{
+    height: 513px;
+}
+.kop1{
+    position: absolute;
+    height: 91px;
+    margin-top: 20px;
+    margin-left: -97px;
+    
+}
